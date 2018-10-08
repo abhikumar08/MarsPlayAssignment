@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "arslayssignment-20181007200328-authRole",
+            "UnauthRoleArn": "arn:aws:iam::886262896172:role/arslayssignment-20181007200328-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::886262896172:role/arslayssignment-20181007200328-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "arslayssignment-20181007200328-deployment",
+            "UnauthRoleName": "arslayssignment-20181007200328-unauthRole",
+            "StackName": "arslayssignment-20181007200328",
+            "StackId": "arn:aws:cloudformation:us-east-1:886262896172:stack/arslayssignment-20181007200328/f6c19e20-ca3d-11e8-a7a8-500c286f3262"
+        }
+    }
+}

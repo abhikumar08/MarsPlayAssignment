@@ -1,0 +1,9 @@
+{
+    "bucketName": "marsplayassignmentad1e10183c214882a1b5c8d6f4a5a474",
+    "authPolicyName": "s3_amplify_2a19bd05",
+    "unauthPolicyName": "s3_amplify_2a19bd05",
+    "authRoleName": "arslayssignment-20181007200328-authRole",
+    "unauthRoleName": "arslayssignment-20181007200328-unauthRole",
+    "authPermissions": "rw",
+    "unauthPermissions": "r"
+}
